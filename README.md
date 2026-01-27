@@ -4,7 +4,7 @@
 I have been 1 year studying in ITLA, so I will use Github for ITLA Assignments or any crazy idea my crazy head could have</p>
 <br>
 <p>Right Now, I'm learning C# and SQL, I cannot say that I am a pro and probably i'll never be able to said that since the process of learning is constant <br>
-I'm still a begginer clearly. Therefore, there are many topics and aspects i need to learn.</p>
+I'm still a beginner clearly. Therefore, there are many topics and aspects i need to learn.</p>
 
 <!--
 **Void-AnthonyJerez/Void-AnthonyJerez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
