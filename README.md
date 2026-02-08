@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-<p> My name is Anthony Jerez, I'm just a 20 years old guy that is interested in many topics <br>
-I have been 1 year studying in ITLA, so I will use Github for ITLA Assignments or any crazy idea my crazy head could have</p>
+<p> My name is Anthony Jerez, I'm just a 20 years old guy that Investigate about different topics, plays videogames and studies <br>
+I use Github just to post repositories of proyects and basic algorithms I make, Also, i use it for some ITLA Homework</p>
 <br>
-<p>Right Now, I'm learning C# and SQL, I cannot say that I am a pro and probably i'll never be able to said that since the process of learning is constant <br>
-I'm still a beginner clearly. Therefore, there are many topics and aspects i need to learn.</p>
+<p>I'm Learning about C# and SQL, and those aren't the ony Languages i have been planning to learn</p>
+
 
 <!--
 **Void-AnthonyJerez/Void-AnthonyJerez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
