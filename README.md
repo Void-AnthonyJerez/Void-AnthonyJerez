@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-<p> My name is Anthony Jerez, I'm just a 20 years old guy that Investigate about different topics, plays videogames and studies <br>
-I use Github just to post repositories of proyects and basic algorithms I make, Also, i use it for some ITLA Homework</p>
+<p> I'm just a guy that is still learning, that's it</p>
 <br>
-<p>I'm Learning about C# and SQL, and those aren't the ony Languages i have been planning to learn</p>
+<p>I'm learning Python, Javascript C# and SQL. Sooner than later, I'll be uploading some projects of those</p>
 
 
 <!--
