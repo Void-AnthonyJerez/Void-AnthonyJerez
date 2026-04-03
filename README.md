@@ -1,8 +1,4 @@
-## Hi there 👋
-
-<p> I'm just a guy that is still learning, that's it</p>
-<br>
-<p>I'm learning Python, Javascript C# and SQL. Sooner than later, I'll be uploading some projects of those languages</p>
+## Hey there! 👋
 
 
 <!--
