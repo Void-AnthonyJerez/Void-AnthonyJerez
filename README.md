@@ -1,5 +1,8 @@
 ## Hey there! 👋
 
+😄 Pronouns: He/Him
+
+<p>I'm just a goy that is still learning :)</p>
 
 <!--
 **Void-AnthonyJerez/Void-AnthonyJerez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
